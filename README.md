@@ -10,7 +10,7 @@ tal luminosity of the galaxy. These FIR radiations prepon-
 derate over the gravitational energy of collapsing clouds,
 instigating star formations. Moreover, dust structures be-
 ing responsible for the molecular dissociation and succes-
-sively resulting H$_2$ molecule formation site, are crucial
+sively resulting H<sub>2</sub> molecule formation site, are crucial
 in studying the chemistry of ISM. Constituting most of
 the elements contributing to the cooling process, dust also
 controls the temperature of the ISM. On the other hand, it
