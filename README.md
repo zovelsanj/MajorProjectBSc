@@ -1,5 +1,5 @@
 # Introduction
-This is a final year Bachelor's project on stellar astrophysics aimed at studying the properties of isolated dust structures around the white dwafs using IRIS (60$\mu$m and 100$\mu$m), AKARI (90$\mu$m and 140$\mu$m), and WISE (12$\mu$m and 22$\mu$m) data. These properties include dust color temperature, dust mass, IR flux density, inclination angle, visual extinction, spectral emissivity and Jeans mass. 
+This is a final year Bachelor's project on stellar astrophysics aimed at studying the properties of isolated dust structures around the white dwafs using IRIS (60 &mum and 100 &mum), AKARI (90 &mum and 140 &mum), and WISE (12 &mum and 22 &mum) data. These properties include dust color temperature, dust mass, IR flux density, inclination angle, visual extinction, spectral emissivity and Jeans mass. 
 
 ![methodology](/Figures/Methodology.jpg)
 
