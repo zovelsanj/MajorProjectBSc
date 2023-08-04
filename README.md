@@ -11,3 +11,26 @@ structures obscure relatively nearby regions in visible and UV regions and re-ra
 1. S. Rijal, S. Sigdel, and M.S. Paudel, (2022), [Study of an Isolated Dust Structure Nearby the White Dwarf WD0011-399 Using IRIS, AKARI, and WISE Data](https://doi.org/10.3126/jnphyssoc.v8i2.50140), Special Issue of Journal of Nepal Physical Society (JNPS), 8(2), pp.14–22. 
 
 2. S. Sigdel, S. Rijal, and M.S. Paudel, (2022), [Comparative Study of Dust Properties around White Dwarf PG1225-079 in IRIS, AKARI AND WISE Data](https://doi.org/10.3126/jnphyssoc.v8i3.50750), Journal of Nepal Physical Society (JNPS), 8(3), pp.79–92.
+
+# Cite as
+```
+@article{rijal2022study,
+  title={Study of an Isolated Dust Structure Nearby the White Dwarf WD0011-399 Using IRIS, AKARI, and WISE Data},
+  author={Rijal, S and Sigdel, S and Paudel, MS},
+  journal={Journal of Nepal Physical Society},
+  volume={8},
+  number={2},
+  pages={14--22},
+  year={2022}
+}
+
+@article{sigdel2022comparative,
+  title={Comparative Study of Dust Properties around White Dwarf PG 1225-079 in IRIS, AKARI and WISE Data},
+  author={Sigdel, S and Rijal, S and Paudel, MS},
+  journal={Journal of Nepal Physical Society},
+  volume={8},
+  number={3},
+  pages={79--92},
+  year={2022}
+}
+```
