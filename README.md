@@ -12,7 +12,7 @@ structures obscure relatively nearby regions in visible and UV regions and re-ra
 
 2. S. Sigdel, S. Rijal, and M.S. Paudel, (2022), [Comparative Study of Dust Properties around White Dwarf PG1225-079 in IRIS, AKARI AND WISE Data](https://doi.org/10.3126/jnphyssoc.v8i3.50750), Journal of Nepal Physical Society (JNPS), 8(3), pp.79–92.
 
-3. Poster submitted at AU Symposium 366: The Origin of Outflows in Evolved Stars.  S. Rijal, and M.S. Paudel, (2022), [Study of Dust Properties Around the White Dwarf GD 61 in IRIS and AKARI Maps](https://zenodo.org/records/5700824)
+3. Poster submitted at IAU Symposium 366: The Origin of Outflows in Evolved Stars.  S. Rijal, and M.S. Paudel, (2022), [Study of Dust Properties Around the White Dwarf GD 61 in IRIS and AKARI Maps](https://zenodo.org/records/5700824)
 
 # Citations
 Please cite our work as follows for any purpose of usage.
